@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.flex-container {
+  display: flex;
+  color: blueviolet;
+}
+
+body {
+  background-color: tan;
+}
+
+h1 {
+  color: rgb(16, 8, 90);
+}
+h2 {
+  color: blueviolet;
+}
+
+.address {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.footer {
+  padding: 0;
+  margin: 0;
+  border: 100;
+  justify-content: flex-end;
+}
